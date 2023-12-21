@@ -25,5 +25,3 @@ Após instalar todas as dependências necessárias, para iniciar a execução do
 ```
 npm run dev
 ```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
